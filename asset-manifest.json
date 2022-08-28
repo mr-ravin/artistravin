@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/artistravin/static/css/main.58969fad.css",
+    "main.js": "/artistravin/static/js/main.ee531b67.js",
+    "static/js/787.0c6e2e39.chunk.js": "/artistravin/static/js/787.0c6e2e39.chunk.js",
+    "static/media/image_3.jpg": "/artistravin/static/media/image_3.27e2eba6f9b0c1da65f7.jpg",
+    "static/media/image_10.jpg": "/artistravin/static/media/image_10.0ee9ce4d492591646df5.jpg",
+    "static/media/image_5.png": "/artistravin/static/media/image_5.bc73d0161d79f837f2c0.png",
+    "static/media/image_6.jpg": "/artistravin/static/media/image_6.f648617ac218c96426f8.jpg",
+    "static/media/image_7.jpg": "/artistravin/static/media/image_7.4694bdbe9a12a2261f5e.jpg",
+    "static/media/image_12.jpg": "/artistravin/static/media/image_12.e879edfc121f0c227859.jpg",
+    "static/media/image_4.png": "/artistravin/static/media/image_4.90541663ea0adee04a4f.png",
+    "static/media/image_8.jpg": "/artistravin/static/media/image_8.4f608fcf8c15067319be.jpg",
+    "static/media/image_9.webp": "/artistravin/static/media/image_9.03f1f4890a63d1161db2.webp",
+    "static/media/image_1.webp": "/artistravin/static/media/image_1.4aa8187c3d3263a97d91.webp",
+    "static/media/image_11.jpg": "/artistravin/static/media/image_11.a589493bb655d31c59a3.jpg",
+    "static/media/image_2.webp": "/artistravin/static/media/image_2.3dddedef2c7d467f8f63.webp",
+    "static/media/logo.svg": "/artistravin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/artistravin/index.html",
+    "main.58969fad.css.map": "/artistravin/static/css/main.58969fad.css.map",
+    "main.ee531b67.js.map": "/artistravin/static/js/main.ee531b67.js.map",
+    "787.0c6e2e39.chunk.js.map": "/artistravin/static/js/787.0c6e2e39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58969fad.css",
+    "static/js/main.ee531b67.js"
+  ]
+}
