@@ -17,7 +17,7 @@ import image_12 from './images/image_12.jpg';
 function App() {
   return (
     <div className="App">
-     <h1><center>Artistravin- online art portfolio of Ravin Kumar</center></h1><br/>
+     <h3><center>Artistravin- online art portfolio of Ravin Kumar</center></h3><br/>
       <table align="center">
       <tr>
       <td className="image_class"><img src={image_1} className="image_internal_class" alt="image" /></td>

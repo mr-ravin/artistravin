@@ -14,16 +14,19 @@
 
 table {
   table-layout: fixed;
-  width: 75%;
+  width: 50%;
+
 }
 
-h1{
-font: italic 1.6rem Brush Script MT, bold, sans-serif;
+h3{
+font: italic 1.4rem;
+font-family: 'Oooh Baby', cursive;
 color: black;
 }
 
 td{
-  font: italic 1.4rem Brush Script MT, bold, sans-serif;
+  font: italic 1.2rem bold;
+  font-family: 'Oooh Baby', cursive;
 }
 body{
   background-color: #DAE2B6;
